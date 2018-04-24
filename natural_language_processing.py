@@ -60,7 +60,7 @@ rate = classifier.predict(myreview)
 def PrintResult(rate):
     if (rate == 1):
         print "Positive"
-    else : print "Negetive"
+    else : print "Negative"
 PrintResult(rate)
 
     

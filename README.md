@@ -1,5 +1,5 @@
 # Natural Language Processing for review prediction
-##Training SVM using 1,000 restaurant reviews to predict your review is 'Positive' or 'Negative'
+## Training SVM using 1,000 restaurant reviews to predict your review is 'Positive' or 'Negative'
 ### 1.Introduction
 In this project, I trained a linear Support Vector Machine(SVM) to realize reviews prediction, all the reviews ahas been labelled as "Positive" and "Negetive".
 ### 2. Approach

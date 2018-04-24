@@ -11,7 +11,7 @@ And then I will creat my the Bags of Words model, I resized my model into 1500 f
 Training model I use is linear SVM which imported from SciKit Learn(sklearn) Library. My configuration is 20% for testing use and 80% for training use.
 
 ### 4. Result
-In all these 200 test cases, SVM output 74 correct negetive reviews and 70 positive reviews, 23 wrong negetive reviews and 33 wrong negetive reviews. Overall, the total accuracy is 72%
+In all these 200 test cases, SVM output 74 correct negetive reviews and 70 correct positive reviews, 23 wrong negetive reviews and 33 wrong negetive reviews. Overall, the total accuracy is 72%.
 
 I also build in the function which can make user input there own words. Here are some examples:
 ```
